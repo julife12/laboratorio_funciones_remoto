@@ -5,8 +5,8 @@ def perfect_number(x):
         if x%i==0:
             perfecto=perfecto+i
 
-    if perfecto==x:
-        print("es un numero perfecto")
+    if (perfecto==x+3) or (perfecto==x+2) or (perfecto==x+1) or (perfecto==x-3) or (perfecto==x-2) or (perfecto==x-1):
+        print("es un numero casi perfecto")
 
 n=int(input("ingrese el numero para saber si es perfecto: "))
 perfect_number(n)
