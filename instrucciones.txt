@@ -1,0 +1,9 @@
+Cree un proyecto denominado LaboratorioFunciones (recuerde que algunas herramientas no crean proyectos, por lo que deberá crear una carpeta con el nombre LaboratorioFunciones en donde guardará los archivos de manera local). 
+
+Inicialice un repositorio Git local en el proyecto creado en su computador. 
+
+Cree un Repositorio en GitHub llamado LaboratorioFuncionesRemoto. 
+
+En el proyecto local, cree archivo llamado instrucciones.txt, en donde guarde cada uno de los numerales de esta lista. 
+
+ 
